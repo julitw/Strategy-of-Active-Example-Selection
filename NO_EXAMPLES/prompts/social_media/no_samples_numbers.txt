@@ -1,0 +1,10 @@
+Task: Read the following text and determine the most appropriate category based on its content.
+
+Categories:
+0 = not depression
+1 = moderate
+2 = severe
+
+Text for you: "{text}"
+
+Return only one number (0, 1, or 2). Use only ASCII digits. No Unicode variants. Do not add any spaces, newlines, or other characters. Avoid explanations.

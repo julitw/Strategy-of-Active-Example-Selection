@@ -1,0 +1,27 @@
+Task: Read the following text and determine the most appropriate category based on its content.
+
+Categories:
+- rec.sport.hockey
+- soc.religion.christian
+- rec.sport.baseball
+- rec.motorcycles
+- sci.cryp
+- rec.autos
+- sci.med
+- sci.space
+- comp.os.ms-windows.misc
+- comp.sys.ibm.pc.hardware
+- sci.electronics
+- comp.windows.x
+- comp.graphics
+- misc.forsale
+- comp.sys.mac.hardware
+- talk.politics.mideast
+- talk.politics.guns
+- alt.atheism
+- talk.politics.misc
+- talk.religion.misc
+
+Text for you: "{text}"
+
+Return only one category. No explanations.
