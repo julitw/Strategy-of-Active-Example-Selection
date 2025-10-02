@@ -1,0 +1,15 @@
+Task: Read the following text and determine the most appropriate category based on its content and the examples below.
+
+Categories:
+- not depression
+- moderate
+- severe
+
+Examples:
+{examples}
+
+Text for you: "{text}"
+
+Return only one category. 
+
+Think step by step.  The final category clearly marked like this: [category] 

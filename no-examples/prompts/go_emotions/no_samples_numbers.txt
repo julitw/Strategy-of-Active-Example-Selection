@@ -1,0 +1,31 @@
+Task: Read the following text and determine the most appropriate category based on its content.
+
+Categories:
+0 = disapproval
+1 = curiosity
+2 = fear
+3 = disgust
+4 = annoyance
+5 = remorse
+6 = neutral
+7 = excitement
+8 = realization
+9 = joy
+10 = embarrassment
+11 = sadness
+12 = anger
+13 = desire
+14 = approval
+15 = love
+16 = disappointment
+17 = amusement
+18 = surprise
+19 = optimism
+20 = gratitude
+21 = admiration
+22 = confusion
+23 = caring
+
+Text for you: "{text}"
+
+Return only one number (0–23). Use only ASCII digits. No Unicode variants. Do not add any spaces, newlines, or other characters. Avoid explanations.

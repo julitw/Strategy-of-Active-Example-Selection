@@ -1,0 +1,20 @@
+Task: Read the following text and determine the most appropriate category based on its content and the examples below.
+
+Categories:
+- Society & Culture
+- Science & Mathematics
+- Health
+- Education & Reference
+- Computers & Internet
+- Sports
+- Business & Finance
+- Entertainment & Music
+- Family & Relationships
+- Politics & Government
+
+Examples:
+{examples}
+
+Text for you: "{text}"
+
+Think step by step. The final category clearly marked like this: [category] 

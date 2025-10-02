@@ -1,0 +1,27 @@
+Task: Read the following text and determine the most appropriate category based on its content.
+
+Categories:
+- rec.sport.hockey - ice hockey discussions
+- soc.religion.christian - Christianity-related topics
+- rec.sport.baseball - baseball news and talk
+- rec.motorcycles - motorcycles and riding
+- sci.crypt - cryptography, encryption, and security
+- rec.autos - cars, maintenance, and driving
+- sci.med - medicine, health, and diseases
+- sci.space - astronomy and space exploration
+- comp.os.ms-windows.misc - Microsoft Windows topics
+- comp.sys.ibm.pc.hardware - PC hardware issues and tips
+- sci.electronics - electronics and circuits
+- comp.windows.x - X Window System discussions
+- comp.graphics - computer graphics and design
+- misc.forsale - general items for sale
+- comp.sys.mac.hardware - Apple/Mac hardware discussions
+- talk.politics.mideast - Middle East political issues
+- talk.politics.guns - gun laws and rights debates
+- alt.atheism - atheism and related discussions
+- talk.politics.misc - miscellaneous political topics
+- talk.religion.misc - other religion-related topics
+
+Text for you: "{text}"
+
+Return only one category. No explanations.

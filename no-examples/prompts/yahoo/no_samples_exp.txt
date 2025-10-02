@@ -1,0 +1,17 @@
+Task: Read the following text and determine the most appropriate category based on its content.
+
+Categories:
+- Society & Culture: Questions related to traditions, beliefs, religion, and human behavior.
+- Science & Mathematics: Questions involving scientific concepts, discoveries, or mathematical problems.
+- Health: Questions about medical issues, health, fitness, or well-being.
+- Education & Reference: Questions on academic topics, homework help, or general knowledge.
+- Computers & Internet: Questions related to technology, software, hardware, or online activities.
+- Sports: Questions about athletic events, sports teams, or competitions.
+- Business & Finance: Questions on economics, personal finance, or the corporate world.
+- Entertainment & Music: Questions about movies, TV shows, celebrities, or music.
+- Family & Relationships: Questions about personal relationships, parenting, or family matters.
+- Politics & Government: Questions regarding political events, policies, or governmental systems.
+
+Text for you: "{text}"
+
+Return only one category. No explanations.

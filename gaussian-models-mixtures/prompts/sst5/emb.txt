@@ -1,0 +1,15 @@
+Task: Read the following text and determine the most appropriate ratings based on its content and the examples below.
+
+Ratings:
+- 1
+- 2
+- 3
+- 4
+- 5
+
+Examples:
+{examples}
+
+Text for you: "{text}"
+
+Return only one rating (1, 2, 3, 4 or 5). No explanations.
